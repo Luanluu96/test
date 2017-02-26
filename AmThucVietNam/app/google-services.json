@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "411706258984",
+    "firebase_url": "https://amthucvietnam-a4ee9.firebaseio.com",
+    "project_id": "amthucvietnam-a4ee9",
+    "storage_bucket": "amthucvietnam-a4ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411706258984:android:1870181afca934f8",
+        "android_client_info": {
+          "package_name": "com.luanluuhauigmail.luanluu.amthucvietnam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411706258984-h012b9nidfj1es591dju10h36n2h8buu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "AIzaSyCqMYWIUEcVd9aQ72la_QI_VlzI1AVJzRY" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

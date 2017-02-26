@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AmThucVietNam</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="noidung">Nếu có dịp ghé qua nhiều tỉnh thành trên cả nước, những vùng đất mới hẳn sẽ ấn tượng một cách mãnh liệt về một số giá trị tuyệt vời. Một ví dụ cụ thể là Sài Gòn thì điều này lại càng được thể hiện một cách thực sự rõ nét. Với rất nhiều những nét độc đáo thú vị thì nơi đây luôn mang đến những trải nghiệm không thể nào quên cho mỗi người chúng ta. Chiếm được cảm tình của mọi người nhiều nhất chắc chắn phải là quan an ngon o sai gon. Thực sự tạo nên những ấn tượng tốt đẹp khiến ai ai cũng phải nhớ mãi thì nơi đây luôn khiến bất cứ ai khi đã một lần đặt chân đến phải cảm thấy thực sự hài lòng.</string>
+    <string name="title_activity_map">Map</string>
+</resources>
